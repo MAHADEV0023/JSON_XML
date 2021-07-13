@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<records>
+    <place>
+        <name>TUMKUR</name>
+        <lat>22.295</lat>
+        <long>86.279</long>
+        <temperature>25</temperature>
+        <humidity>92 %</humidity>
+    </place>
+    <place>
+        <name>Bangalore</name>
+        <lat>12.97165</lat>
+        <long>77.5946</long>
+        <temperature>25</temperature>
+        <humidity>74 %</humidity>
+    </place>
+</records>
